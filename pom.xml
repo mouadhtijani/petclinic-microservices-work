@@ -149,7 +149,7 @@
 
                                                 For more information, check the project documentation.
                                             </message>
-                                            <version>${java.version}</version>
+                                            <version>17</version>
                                         </requireJavaVersion>
                                     </rules>
                                     <failFast>true</failFast>
